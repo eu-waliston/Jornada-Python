@@ -1,11 +1,15 @@
+
 # Jornada Python
+
+![How-to-Learn-Python](https://github.com/user-attachments/assets/0924f0ea-55fb-4e74-8dbb-81ed93a3b100)
+
 
 
  - Módulo 1: INTRODUÇÃO À JORNADA
 	 - Aula: Seja Bem Vindo! Sua Jornada começa aqui!
 	 - Aula: Conhecendo a Plataforma da Hotmart
 	 - Aula: Apertem os cintos: o curso de Django VEM AÍ! 🤯
-  - 
+
 - Módulo 2: PRIMEIROS PASSOS NO PYTHON
 	 - Aula: Lógica de Programação
 	 - Aula: Introdução à Linguagem Python
