@@ -20,7 +20,7 @@
 	 - Aula: O Interpretador Python
 	 - Aula: Seu primeiro código Python
 	 - Aula: PyQuiz #1
-  - 
+  -
 - Módulo 3: VARIÁVEIS E TIPOS DE DADOS
 	- Aula: O que é uma variável
 	- Aula: Tipos de Dados Simples
@@ -155,59 +155,59 @@
 	-  Aula: Introdução ao Framework Web Django
 
 - Módulo 22: [DJANGO] INTRODUÇÃO A BANCO DE DADOS
-	- (bloqueada) Aula: Teoria de Bancos de Dados
-	- (bloqueada) Aula: Entendendo o que são Tabelas
-	- (bloqueada) Aula: Primeiros passos com o PostgreSQL
-	- (bloqueada) Aula: Utilização da Ferramenta DBeaver
-	- (bloqueada) Aula: Manipulação de Tabelas
-	- (bloqueada) Aula: Inserindo Dados com INSERT
-	- (bloqueada) Aula: Entendendo o que são CONSTRAINTS
-	- (bloqueada) Aula: Atualizando Dados com UPDATE
-	- (bloqueada) Aula: Deletando Dados com DELETE
-	- (bloqueada) Aula: Buscando Dados com SELECT
+	-  Aula: Teoria de Bancos de Dados
+	-  Aula: Entendendo o que são Tabelas
+	-  Aula: Primeiros passos com o PostgreSQL
+	-  Aula: Utilização da Ferramenta DBeaver
+	-  Aula: Manipulação de Tabelas
+	-  Aula: Inserindo Dados com INSERT
+	-  Aula: Entendendo o que são CONSTRAINTS
+	-  Aula: Atualizando Dados com UPDATE
+	-  Aula: Deletando Dados com DELETE
+	-  Aula: Buscando Dados com SELECT
 
 - Módulo 23: [DJANGO] A CAMADA MODEL DO DJANGO
-	- (bloqueada) Aula: Introdução ao Módulo
-	- (bloqueada) Aula: Instalação e "Hello World, Django!"
-	- (bloqueada) Aula: Entendendo a estrutura de um Projeto Django
-	- (bloqueada) Aula: Nosso primeiro Projeto Django
-	- (bloqueada) Aula: A Camada Model
-	- (bloqueada) Aula: O Comando makemigrations
-	- (bloqueada) Aula: O Comando migrate
-	- (bloqueada) Aula: A API de Acesso a Dados do Django
+	-  Aula: Introdução ao Módulo
+	-  Aula: Instalação e "Hello World, Django!"
+	-  Aula: Entendendo a estrutura de um Projeto Django
+	-  Aula: Nosso primeiro Projeto Django
+	-  Aula: A Camada Model
+	-  Aula: O Comando makemigrations
+	-  Aula: O Comando migrate
+	-  Aula: A API de Acesso a Dados do Django
 
 - Módulo 24: [DJANGO] A CAMADA VIEW DO DJANGO
-	- (bloqueada) Aula: Introdução ao Módulo
-	- (bloqueada) Aula: Configuração de Rotas
-	- (bloqueada) Aula: Function Based Views vs Class Based Views
-	- (bloqueada) Aula: Function Based Views (FBV)
-	- (bloqueada) Aula: Class Based Views (CBV)
-	- (bloqueada) Aula: Utilizando o Debugger do PyCharm para visualizar uma Requisição HTTP
-	- (bloqueada) Aula: Adicionando Autenticação e Autorização à nossa Aplicação
-	- (bloqueada) Aula: Forms do Django
-	- (bloqueada) Aula: Facilitando nossa vida com ModelForms
-	- (bloqueada) Aula: Middlewares do Django
-	- (bloqueada) Aula: Criando Middlewares Customizados
+	-  Aula: Introdução ao Módulo
+	-  Aula: Configuração de Rotas
+	-  Aula: Function Based Views vs Class Based Views
+	-  Aula: Function Based Views (FBV)
+	-  Aula: Class Based Views (CBV)
+	-  Aula: Utilizando o Debugger do PyCharm para visualizar uma Requisição HTTP
+	-  Aula: Adicionando Autenticação e Autorização à nossa Aplicação
+	-  Aula: Forms do Django
+	-  Aula: Facilitando nossa vida com ModelForms
+	-  Aula: Middlewares do Django
+	-  Aula: Criando Middlewares Customizados
 
-- Módulo 25: [DJANGO] A CAMADA TEMPLATE DO DJANGO 
-	- (bloqueada) Aula: Introdução ao Módulo
-	- (bloqueada) Aula: Introdução à HTML
-	- (bloqueada) Aula: Introdução à CSS
-	- (bloqueada) Aula: Introdução à Javascript
-	- (bloqueada) Aula: Introdução ao Bootstrap 5
-	- (bloqueada) Aula: Configuração da Camada Template
-	- (bloqueada) Aula: A Django Template Language (DTL)
-	- (bloqueada) Aula: Construindo nosso Template Base
-	- (bloqueada) Aula: Construindo a Página Inicial da nossa Aplicação
-	- (bloqueada) Aula: Construindo a Página de Cadastro de Funcionários
-	- (bloqueada) Aula: Construindo a Página de Listagem de Funcionários
-	- (bloqueada) Aula: Construindo a Página de Atualização de Funcionários
-	- (bloqueada) Aula: Construindo a Página de Exclusão de Funcionários
-	- (bloqueada) Aula: Tags e Filtros Customizados
-	- (bloqueada) Aula: Configuração de Tags e Filtros
-	- (bloqueada) Aula: Filtro Customizado "primeira_letra"
-	- (bloqueada) Aula: Tag Customizada "tempo_atual"
-	- (bloqueada) Aula: Conhecendo os Filtros do Próprio Django
+- Módulo 25: [DJANGO] A CAMADA TEMPLATE DO DJANGO
+	-  Aula: Introdução ao Módulo
+	-  Aula: Introdução à HTML
+	-  Aula: Introdução à CSS
+	-  Aula: Introdução à Javascript
+	-  Aula: Introdução ao Bootstrap 5
+	-  Aula: Configuração da Camada Template
+	-  Aula: A Django Template Language (DTL)
+	-  Aula: Construindo nosso Template Base
+	-  Aula: Construindo a Página Inicial da nossa Aplicação
+	-  Aula: Construindo a Página de Cadastro de Funcionários
+	-  Aula: Construindo a Página de Listagem de Funcionários
+	-  Aula: Construindo a Página de Atualização de Funcionários
+	-  Aula: Construindo a Página de Exclusão de Funcionários
+	-  Aula: Tags e Filtros Customizados
+	-  Aula: Configuração de Tags e Filtros
+	-  Aula: Filtro Customizado "primeira_letra"
+	-  Aula: Tag Customizada "tempo_atual"
+	-  Aula: Conhecendo os Filtros do Próprio Django
 
 - Módulo 26: [EBOOK] Soft Skills para Desenvolvedores
 
