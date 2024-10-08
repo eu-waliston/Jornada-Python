@@ -1,0 +1,8 @@
+print("         STRIP        ".strip())
+print("maisucula".upper())
+print("MINUSCULA".lower())
+print("T,exto, c,o,m va,ri,as v,ir,gu,l,as".replace(',', ''))
+print("Texto para a funcao de count".count('e'))
+print("TEXTO CENTRALIZADO".center(60, '*'))
+print("Avião".index("ã"))
+print("Alfanumerico".isnumeric())

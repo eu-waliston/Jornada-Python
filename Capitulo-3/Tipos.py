@@ -11,8 +11,8 @@ b = 9.1
 print(a)
 print(a + b)
 print(numero_complexo)
-#Logico ou boolean e podem ser dois vcalores true e flase
 
+#Logico ou boolean e podem ser dois vcalores true e flase
 print('true')
 print('false')
 
